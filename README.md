@@ -11,5 +11,6 @@ This is a simple Python guessing game.
 
 
 ## how to run
-```bash
-python3 game.py
+` ```bash `
+`python3 game.py`
+` ``` `
