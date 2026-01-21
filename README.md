@@ -9,6 +9,7 @@ This is a simple Python guessing game.
 - If the guess is too low, the program prints: "ziyd chwiya a bro"
 - If the guess is correct, the program prints: "mbrok 3lik Bro🎉" and the game stops.
 
-## How to run
+
+## how to run
 ```bash
 python3 game.py
