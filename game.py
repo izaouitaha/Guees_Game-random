@@ -1,7 +1,12 @@
 import random
 secret = random.randint(1, 100)
 
-while True:
+guess = int(input("Guess a number between 1 and 100: "))
+
+while secret != guess:
+    print(((secret )))
+    A = True
+
     guess = int(input("Guess a number between 1 and 100: "))
 
 
@@ -13,7 +18,8 @@ while True:
 
     else:
         print("mbrok 3lik Bro🎉")
-        break
+
+        A = False
 
 
 
